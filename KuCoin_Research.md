@@ -2,7 +2,7 @@
 # ___Unit 1 Research Project: KuCoin Exchange___
 ## ___*TJ McDowell* - 10.2.2021___
 ---
-<img src="/kucoin-new-logo.png" alt="drawing" width="150"/>
+<img src="https://github.com/tjmcdowelldotcom/ResearchProject/blob/main/Kucoin-new-logo.jpg" alt="drawing" width="150"/>
 
 ### <ins>__Overview and Origin__ 
 
@@ -59,11 +59,16 @@
 <p>
 
 * **What are the other major companies in this domain?** <sup>6
+    
     * [Coinbase](www.coinbase.com)
+   
     * [Binance](www.binance.us)
-    * [Kraken](www.kraken.com) 
-    * [Crypto.com](www.crypto.com)
-    * [Gemini](www.gemini.com)
+    
+    * [Kraken](www.kraken.com)  
+    
+    * [Crypto.com](www.crypto.com)  
+    
+    * [Gemini](www.gemini.com) 
 
 
 ## Results
