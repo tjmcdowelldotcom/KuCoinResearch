@@ -2,7 +2,7 @@
 # ___Unit 1 Research Project: KuCoin Exchange___
 ## ___*TJ McDowell* - 10.2.2021___
 ---
-<img src="kucoin-new-logo.png" alt="drawing" width="150"/>
+<img src="/kucoin-new-logo.png" alt="drawing" width="150"/>
 
 ### <ins>__Overview and Origin__ 
 
